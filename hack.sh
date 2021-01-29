@@ -9,20 +9,18 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 sleep 5
-echo $ku"█████████                      [•]PREMIUM"
-echo $ku"█▄█████▄█      *╔═══❖•ೋ° °ೋ•❖═══╗*"
-echo $ku"█▼▼▼▼▼"
-echo $ku"█                      HACKER      "
-echo $me"█▲▲▲▲▲"
-echo $me"█████████      *╚═══❖•ೋ° °ೋ•❖═══╝*"
-echo $bi"██ ██"
-echo $ku"╭───────╯•╰───────╮ "
-echo $cy"  ╔╗╔╗╔══╗╔═╗╔╦╗  "
-echo $cy"  ║╚╝║║╔╗║║╔╝║╔╝  "
-echo $cy"  ║╔╗║║╠╣║║╚╗║╚╗  "
-echo $cy"  ╚╝╚╝╚╝╚╝╚═╝╚╩╝  "
-echo $i" ────────────────── "
+
+echo $i" █▀▀ █▀▀█ ░░▀ █▀▀█ █▀▀█   ░▀░ █▀▀▄"
 sleep 2
+echo $i "█▀▀ █▄▄█ ░░█ █▄▄█ █▄▄▀   ▀█▀ █░░█"
+sleep 2
+echo $i "▀░░ ▀░░▀ █▄█ ▀░░▀ ▀░▀▀   ▀▀▀ ▀▀▀ "
+
+
+
+
+
+sleep 3
 echo "                                                          >
  echo $i"■█■█■█■█■█■█■█■■█■█■█■█■█■█■█■■█■█■█■█■█■█"
  echo $ku"      [•]  INDONESIAN CYBER      [•]      "
@@ -45,3 +43,5 @@ echo $i"        [•]     [6]EXIT               [•]    "
 echo $ku"║▌│█║▌│ █║▌│█│║▌║║▌│█║▌│ █║▌│█│║▌║║▌│█║▌│ █║▌"
 sleep 3
  echo $pu"               [√]PILIH NOMOR :          "
+sleep 3
+ echo 
